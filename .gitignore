@@ -1,3 +1,13 @@
 #eclipse
 .project
 .settings/
+
+# Intellij
+.idea
+
+
+# graddle
+.gradle
+
+# build
+build
